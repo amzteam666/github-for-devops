@@ -1,1 +1,5 @@
-print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")print("Hello, World!")
+   1 try { . "c:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}                          
+   2 git push origin master                                                                                                                                                                              
+   3 git remote set-url origin https://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@github.com/amzteam666/github-for-devops.git                                                                              
+   4 git push origin master                                                                                                                                                                              
+   5 git pull origin master  
